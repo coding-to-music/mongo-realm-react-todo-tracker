@@ -1,3 +1,35 @@
+# mongo-realm-react-todo-tracker
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/mongo-realm-react-todo-tracker
+
+https://mongo-realm-react-todo-tracker.vercel.app
+
+From / By https://www.mongodb.com/docs/realm/tutorial/backend-app/
+
+https://www.mongodb.com/docs/realm/tutorial/web-graphql/#std-label-tutorial-task-tracker-web
+
+https://github.com/mongodb-university/realm-tutorial-web
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/mongo-realm-react-todo-tracker.git
+git push -u origin main
+```
+
 # Get Started
 
 ## 1. Install `mongodb-realm-cli`
@@ -54,5 +86,3 @@ widget on the [docs site](http://www.mongodb.com/docs/realm/tutorial).
 This repo is automatically derived from our main docs repo. If you'd like to
 submit a pull request -- thanks! -- please feel free to do so at
 https://github.com/mongodb/docs-realm/ (see the tutorial/ subdirectory).
-
-
