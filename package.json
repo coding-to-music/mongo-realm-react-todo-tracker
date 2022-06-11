@@ -4,7 +4,7 @@
   "description": "## 1. Install `mongodb-realm-cli`",
   "main": "index.js",
   "scripts": {
-    "vercel": "npm run deploy && vercel --prod",
+    "vercel": "npm run deploy && vercel --prod ",
     "deploy": "git add . && git commit -m Build && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
