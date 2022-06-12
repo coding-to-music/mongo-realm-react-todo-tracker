@@ -1,0 +1,43 @@
+{
+  "bsonType": "object",
+  "properties": {
+    "_id": {
+      "bsonType": "objectId"
+    },
+    "_partition": {
+      "bsonType": "string"
+    },
+    "name": {
+      "bsonType": "string"
+    },
+    "from": {
+      "bsonType": "string"
+    },
+    "to": {
+      "bsonType": "string"
+    },
+    "width": {
+      "bsonType": "string"
+    },
+    "length": {
+      "bsonType": "string"
+    },
+    "date": {
+      "bsonType": "string"
+    },
+    "noncity": {
+      "bsonType": "string"
+    },
+    "area": {
+      "bsonType": "long"
+    },
+    "created_at": {
+      "bsonType": "date"
+    },
+    "updated_at": {
+      "bsonType": "date"
+    }
+  },
+  "required": ["_id", "_partition", "name"],
+  "title": "street"
+}
