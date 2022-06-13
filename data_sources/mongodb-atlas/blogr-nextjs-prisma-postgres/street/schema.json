@@ -31,6 +31,9 @@
     "area": {
       "bsonType": "long"
     },
+    "status": {
+      "bsonType": "string"
+    },
     "created_at": {
       "bsonType": "date"
     },
